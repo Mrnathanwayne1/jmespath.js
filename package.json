@@ -6,7 +6,7 @@
     "name": "James Saryerwinnie",
     "email": "js@jamesls.com",
     "url": "http://jamesls.com/"
-  },
+  },az config param-persist delete --all --purge
   "homepage": "https://github.com/jmespath/jmespath.js",
   "contributors": [],
   "devDependencies": {
